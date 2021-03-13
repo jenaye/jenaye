@@ -5,11 +5,13 @@
 
 <div align="center">
   <img width="20%" src="https://jenaye.fr/logonormaltavu.png" >
-</div>
 
-- 🎖Vice-captain CTF team [0xCD](https://blog.0xcd.fr)
-- 👀 Pentester [@Orange Cyberdefense](https://orangecyberdefense.com/fr/) 
-- ⚡ Creator of [Smersh](https://github.com/CMEPW/Smersh)
-- 🎓 Engineer graduated from [CNAM](https://www.cnam.fr/)
+<ul>
+<li>🎖Vice-captain CTF team <a href="https://blog.0xcd.fr">0xCD</a></li>
+<li>👀 Pentester <a href="https://orangecyberdefense.com/fr/">@Orange Cyberdefense</a> </li>
+<li>⚡ Creator of <a href="https://github.com/CMEPW/Smersh">Smersh</a></li>
+<li>🎓 Engineer graduated from <a href="https://www.cnam.fr/">CNAM</a></li>
+</ul>
+</div>
 
 
