@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img style="width:20%" src="https://jenaye.fr/logonormaltavu.png" >
+  <img width="20%" src="https://jenaye.fr/logonormaltavu.png" >
 </div>
 
 - 🎖Vice-captain CTF team [0xCD](https://blog.0xcd.fr)
