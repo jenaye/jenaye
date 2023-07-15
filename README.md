@@ -8,7 +8,7 @@
 
 <ul>
 <li>🎖Vice-captain CTF team <a href="https://blog.0xcd.fr">0xCD</a></li>
-<li>👀 Pentester <a href="https://orangecyberdefense.com/fr/">@Orange Cyberdefense</a> </li>
+<li>👀 Red team operator <a href="https://orangecyberdefense.com/fr/">@Orange Cyberdefense</a> </li>
 <li>⚡ Creator of <a href="https://github.com/CMEPW/Smersh">Smersh</a></li>
 <li>🎓 Engineer graduated from <a href="https://www.cnam.fr/">CNAM</a></li>
 </ul>
